@@ -8,7 +8,7 @@ function Csv(props){
             <textarea defaultValue={props.data} onChange={props.handleChange}>
             </textarea>
        </div>
-   ) 
+   )
 }
 
 export default Csv
