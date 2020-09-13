@@ -1,0 +1,11 @@
+#root {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea {
+  width: 80%;
+  min-height: 200px;
+  margin: auto;
+  margin-bottom: 30px;
+}
