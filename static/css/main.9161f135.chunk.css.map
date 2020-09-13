@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,sCACF,CAEA,SACE,SAAU,CACV,gBAAiB,CAEjB,qBACF","file":"main.9161f135.chunk.css","sourcesContent":["#root {\n  text-align: center;\n  font-family: Arial, Helvetica, sans-serif;\n}\n\ntextarea {\n  width: 80%;\n  min-height: 200px;\n  margin: auto;\n  margin-bottom: 30px;\n}"]}

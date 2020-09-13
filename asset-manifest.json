@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/csv-to-json-converter/static/css/main.9161f135.chunk.css",
+    "main.js": "/csv-to-json-converter/static/js/main.f7d4e33d.chunk.js",
+    "main.js.map": "/csv-to-json-converter/static/js/main.f7d4e33d.chunk.js.map",
+    "runtime-main.js": "/csv-to-json-converter/static/js/runtime-main.b7265903.js",
+    "runtime-main.js.map": "/csv-to-json-converter/static/js/runtime-main.b7265903.js.map",
+    "static/js/2.01d6cf47.chunk.js": "/csv-to-json-converter/static/js/2.01d6cf47.chunk.js",
+    "static/js/2.01d6cf47.chunk.js.map": "/csv-to-json-converter/static/js/2.01d6cf47.chunk.js.map",
+    "index.html": "/csv-to-json-converter/index.html",
+    "precache-manifest.1b53346dc3bad217a49c8d2ad0a1d394.js": "/csv-to-json-converter/precache-manifest.1b53346dc3bad217a49c8d2ad0a1d394.js",
+    "service-worker.js": "/csv-to-json-converter/service-worker.js",
+    "static/css/main.9161f135.chunk.css.map": "/csv-to-json-converter/static/css/main.9161f135.chunk.css.map",
+    "static/js/2.01d6cf47.chunk.js.LICENSE.txt": "/csv-to-json-converter/static/js/2.01d6cf47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7265903.js",
+    "static/js/2.01d6cf47.chunk.js",
+    "static/css/main.9161f135.chunk.css",
+    "static/js/main.f7d4e33d.chunk.js"
+  ]
+}
